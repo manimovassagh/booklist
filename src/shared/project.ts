@@ -1,6 +1,6 @@
 import Project from '../types/Project'
 
-
+//just a commit
 export const projects: Project[] = [
     {
         "id": 1,
